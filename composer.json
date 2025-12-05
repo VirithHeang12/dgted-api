@@ -37,7 +37,9 @@
         "drupal/drupal_cms_seo_tools": "^1.2",
         "drupal/drupal_cms_starter": "^1.2",
         "drupal/recipe_installer_kit": "^1-alpha6@alpha",
-        "drupal/webform": "@beta"
+        "drupal/restui": "^1.22",
+        "drupal/webform": "@beta",
+        "drupal/webform_rest": "^4.2"
     },
     "require-dev": {
         "drush/drush": "^13.6.1"
